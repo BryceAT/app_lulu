@@ -1,0 +1,12 @@
+Name: test
+Age: 123
+
+Do you like cupcakes?
+yes
+
+Which fruit do you like best?
+mango
+
+How many eyes do you have?
+2
+
